@@ -1,5 +1,58 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "6f4a",
+      "name": "Linda Murray"
+    },
+    {
+      "id": "b234",
+      "name": "Cody Hagenes"
+    },
+    {
+      "id": "a431",
+      "name": "Dave Smitham"
+    },
+    {
+      "id": "e57c",
+      "name": "Kate Olson"
+    },
+    {
+      "id": "9e01",
+      "name": "Timothy Braun"
+    },
+    {
+      "id": "a72c",
+      "name": "Nick Wisoky"
+    },
+    {
+      "id": "c962",
+      "name": "Danielle Ebert"
+    },
+    {
+      "id": "a51b",
+      "name": "Jean Turner"
+    },
+    {
+      "id": "7eb6",
+      "name": "Gwendolyn Nikolaus"
+    },
+    {
+      "id": "ef5c",
+      "name": "Joyce Donnelly III"
+    },
+    {
+      "id": "c92c",
+      "name": "Sarah Prohaska"
+    },
+    {
+      "id": "b77a",
+      "name": "Jeanne Zboncak"
+    }
+  ],
   "albums": [],
   "photos": []
 }
