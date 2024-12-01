@@ -17,6 +17,72 @@
       "name": "Robin Mohr"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "344b"
+    },
+    {
+      "id": "72f5",
+      "userId": "344b",
+      "title": "Refined Soft Hat"
+    },
+    {
+      "id": "365a",
+      "userId": "344b",
+      "title": "Unbranded Fresh Shirt"
+    },
+    {
+      "id": "c364",
+      "userId": "344b",
+      "title": "Unbranded Granite Cheese"
+    },
+    {
+      "id": "f236",
+      "userId": "344b",
+      "title": "Fantastic Metal Chicken"
+    },
+    {
+      "id": "cce7",
+      "userId": "344b",
+      "title": "Rustic Granite Soap"
+    },
+    {
+      "id": "13b6",
+      "userId": "344b",
+      "title": "Bespoke Soft Car"
+    },
+    {
+      "id": "db06",
+      "userId": "344b",
+      "title": "Handmade Rubber Hat"
+    },
+    {
+      "id": "779c",
+      "userId": "344b",
+      "title": "Refined Rubber Keyboard"
+    },
+    {
+      "id": "7633",
+      "userId": "344b",
+      "title": "Electronic Wooden Keyboard"
+    },
+    {
+      "id": "71ec",
+      "userId": "344b",
+      "title": "Elegant Frozen Table"
+    },
+    {
+      "id": "367d",
+      "userId": "344b",
+      "title": "Unbranded Soft Shirt"
+    },
+    {
+      "id": "4c47",
+      "userId": "344b",
+      "title": "Awesome Cotton Keyboard"
+    }
+  ],
   "photos": []
 }
