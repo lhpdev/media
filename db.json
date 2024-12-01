@@ -64,5 +64,26 @@
       "title": "Practical Soft Shirt"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "cb79",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22254"
+    },
+    {
+      "id": "93b7",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39666"
+    },
+    {
+      "id": "b606",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26712"
+    },
+    {
+      "id": "2a44",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76611"
+    }
+  ]
 }
